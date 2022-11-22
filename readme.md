@@ -1,3 +1,33 @@
+## MyVentory
+
+Aplikasi "MyV" singkatan dari My Ventory adalah aplikasi "inventory management", yaitu manajemen persediaan dimana didalamnya untuk mempermudah admin atau pemilik toko mengorganisir data barang-barangnya.
+
+## Fitur Utama
+- Melihat Detail Produk
+- Melihat Jumlah Produk
+- Mencari Produk
+
+## Anggota Tim
+
+| Nama                         | Role              | GitHub URL                                                     |
+| ---------------------------- | ----------------- | -------------------------------------------------------------- |
+| Adies Wijayanto              | Frontend, Design  | [@]()                                                          |
+| Bintang Mahardhika           | Frontend, Design  | [@BeMahardhika](https://github.com/BeMahardhika)               |
+| Erlin Maresta                | Frontend, Backend | [@erlinmareta](https://github.com/erlinmareta)                 |
+| Feminda Dwi Sismayanti       | Lead, Backend     | [@femindadwis](https://github.com/femindadwis)                 |
+
+## Tech Stack
+
+### Commerce
+
+- PHP
+- CSS
+
+- Backend
+- REST API: 
+- Data Fetching
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
