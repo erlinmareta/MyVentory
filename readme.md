@@ -3,9 +3,14 @@
 Aplikasi "MyV" singkatan dari My Ventory adalah aplikasi "inventory management", yaitu manajemen persediaan dimana didalamnya untuk mempermudah admin atau pemilik toko mengorganisir data barang-barangnya.
 
 ## Fitur Utama
-- Melihat Detail Produk
-- Melihat Jumlah Produk
-- Mencari Produk
+- [x] Melihat Detail Produk
+- [x] Melihat Jumlah Produk
+- [x] Laporan Barang Masuk
+- [x] Laporan Barang Keluar
+
+### Local Frontend/Client
+
+- http://127.0.0.1:8000
 
 ## Anggota Tim
 
@@ -20,11 +25,13 @@ Aplikasi "MyV" singkatan dari My Ventory adalah aplikasi "inventory management",
 
 ### Commerce
 
-- PHP
+- Laravel 7
+- PHP 7
 - CSS
-
+- Frontend : 
+    - Bootstrap
+- JavaScript
 - Backend
-- REST API: 
 - Data Fetching
 
 
